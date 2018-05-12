@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '7359'
     url: http://www.gutenberg.org/2009/agents/7359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46310#A-Journal-of-the-Reign-of-Queen-Victoria-1837-1852---Part-2-Vol-3
 gutenberg_issued: '2014-07-17'
 gutenberg_type: Text
 identifiers:
